@@ -1,0 +1,9 @@
+<VirtualHost *:8888>      
+    DocumentRoot /var/www/mysite/mysite      
+    <Directory /var/www/mysite/mysite>          
+        Order allow,deny          
+        Allow from all      
+    </Directory>      
+  
+WSGIScriptAlias /var/www/mysite/mysite/wsgi.py
+</VirtualHost> 

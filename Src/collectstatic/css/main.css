@@ -1,0 +1,74 @@
+
+
+/* ==========================================================================
+   quanzhankaifa.com's custom styles
+   ========================================================================== */
+
+
+body {
+    font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+}
+
+h1,.h1,h2,.h2,h3,.h3,h4,.h4,.lead {
+    font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei UI","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+}
+.wrapper{
+    width:100%;
+}
+
+.wrapper h1{
+    margin-top: 0px;
+}
+
+.wrapper .body {
+
+margin-left:10px;
+margin-right:10px;
+}
+
+.comment{
+margin-top: 30px;
+}
+
+
+.footer h3 {
+font-size:16px;
+}
+
+.content{
+    display: block;
+    word-wrap: break-word;
+    overflow: hidden;
+    color: #333;
+    line-height: 1.7;
+    font-size: 1.6rem;
+    text-align:justify;
+}
+
+
+.post-header .post-meta {
+    font-size: .9em;
+    color: #aaa;
+    margin: 0;
+}
+
+.post-header a {
+    font-size: .9em;
+    color: #aaa;
+    margin: 0;
+}
+
+.content img {
+    max-width:100%;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
